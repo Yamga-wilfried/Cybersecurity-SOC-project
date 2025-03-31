@@ -1,4 +1,4 @@
-# 🛡️ Mise en place d’un SOC Open Source avec Wazuh & Shuffle
+# 🛡️ Mise en place d’un SOC Open Source complet et fonctionnel
 
 ## 📌 Introduction
 Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'aide d'outils **open source** tels que **Wazuh (SIEM), Shuffle (SOAR)**, **Suricata (IDS/IPS sur Pfsense)**, **Monitoring(kibana),Alerting et suivis(Grafana)**. L’objectif est de **centraliser les logs, détecter les menaces, automatiser les réponses aux incidents et améliorer la gestion de la cybersécurité**.
