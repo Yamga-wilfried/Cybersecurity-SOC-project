@@ -21,7 +21,7 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 
 ## 📊 Architecture Technique
 ### 📌 **Schéma du SOC**
-![Capture d'écran 2025-03-31 195232](https://github.com/user-attachments/assets/0508aa5d-4dcf-4b6a-95c9-29b4f29957dc)
+Architecture-du-SOC.png
 
 - **Les logs sont collectés depuis AD, Pfsense, Windows, Linux**
 ![Capture d'écran 2025-03-31 195010](https://github.com/user-attachments/assets/226cdd7c-bea3-4ade-b90c-8bab664b3c3c)
