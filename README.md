@@ -32,7 +32,7 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
   
 - **Wazuh analyse et corrèle les logs**
 - **Shuffle orchestre et automatise la réponse aux incidents**
-- **Suricata détecte et bloque les intrusions sur Pfsense**
+- **Suricata(IPS/IDS) détecte et bloque les intrusions sur Pfsense**
 - **Kibana permet la visualisation et le suivi des alertes**
 
 ## 🛠️ Implémentation
@@ -40,10 +40,10 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 1. 📌 **Définition du périmètre et choix des outils**
 2. 📌 **Installation des serveurs (Proxmox, Wazuh, Shuffle, Pfsense, Suricata)**
 3. 📌 **Configuration des logs et agents Wazuh**
-4. 📌 **Définition des scénarios d’attaques et règles de détection**
+4. 📌 **Définition des scénarios d’attaques et règles de détection(correlation des logs)**
 5. 📌 **Déploiement du SOAR pour automatiser la réponse aux incidents**
-6. 📌 **Génération de logs et simulations d’attaques**
-7. 📌 **Optimisation et documentation du SOC**
+6. 📌 **Génération de logs et simulations d’attaques à partir des différentes sources**
+7. 📌 **Optimisation et documentation du SOC(plan de rémediation et rapport d'investigation)**
 
 ### 🔹 **Difficultés rencontrées & Solutions**
 ❌ **Problème d’authentification sous Ubuntu avec AD** ➜ 🔍 Solution : Configuration de `realmd` et `sssd`.
