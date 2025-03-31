@@ -68,6 +68,7 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 - **Exemple d’alerte et corrélation dans Wazuh**
 - **Exécution d’un playbook SOAR sur Shuffle**
 - **Détection d’une menace avec Suricata**
+- **Exemple de gestion d'incident de A à Z**
 
 ## 🔗 Liens Utiles
 - 📖 [Documentation Wazuh](https://documentation.wazuh.com/)
