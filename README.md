@@ -76,4 +76,4 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 
 
 📌 **Auteur :** *Loïc Wilfried YAMGA*  
-📌 **Contact :** *www.linkedin.com/in/loïc-yamga* _loic-wilfried.yamga-ngeulieutou@efrei.net_
+📌 **Contact :** *www.linkedin.com/in/loïc-yamga* OR _loic-wilfried.yamga-ngeulieutou@efrei.net_
