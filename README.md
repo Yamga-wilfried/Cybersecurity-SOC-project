@@ -21,7 +21,8 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 
 ## 📊 Architecture Technique
 ### 📌 **Schéma du SOC**
-https://github.com/Yamga-wilfried/Cybersecurity-SOC-project/blob/2e785880f1366911607a94386fde21d429861e96/Dashboard-Wazuh.png
+
+![Capture d'écran 2025-03-31 195232](https://github.com/user-attachments/assets/134ba8d5-f7e8-4f39-b7ab-fd41d0f0551d)
 
 
 - **Les logs sont collectés depuis AD, Pfsense, Windows, Linux**
