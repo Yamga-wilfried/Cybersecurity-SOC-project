@@ -39,12 +39,13 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 ## 🛠️ Implémentation
 ### 🔹 **Principales Étapes**
 1. 📌 **Définition du périmètre et choix des outils**
-2. 📌 **Installation des serveurs (Proxmox, Wazuh, Shuffle, Pfsense, Suricata)**
-3. 📌 **Configuration des logs et agents Wazuh**
-4. 📌 **Définition des scénarios d’attaques et règles de détection(correlation des logs)**
-5. 📌 **Déploiement du SOAR pour automatiser la réponse aux incidents**
-6. 📌 **Génération de logs et simulations d’attaques à partir des différentes sources**
-7. 📌 **Optimisation et documentation du SOC(plan de rémediation et rapport d'investigation)**
+2. 📌 **Installation des serveurs (Proxmox, Wazuh, Shuffle, Pfsense, Suricata, AD)**
+3. **Installation des endpoints (WIN10, 11, Ubuntu)**
+4. 📌 **Configuration des logs et agents Wazuh**
+5. 📌 **Définition des scénarios d’attaques et règles de détection(correlation des logs)**
+6. 📌 **Déploiement du SOAR pour automatiser la réponse aux incidents**
+7. 📌 **Génération de logs et simulations d’attaques à partir des différentes sources**
+8. 📌 **Optimisation et documentation du SOC(plan de rémediation et rapport d'investigation)**
 
 ### 🔹 **Difficultés rencontrées & Solutions**
 ❌ **Problème d’authentification sous Ubuntu avec AD** ➜ 🔍 Solution : Configuration de `realmd` et `sssd`.
