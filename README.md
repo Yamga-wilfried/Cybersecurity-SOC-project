@@ -8,6 +8,7 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 - **Détection avancée des menaces** en centralisant les logs et en corrélant les événements.
 - **Automatisation des réponses aux incidents** grâce à SOAR.
 - **Amélioration de la sécurité périmétrique** via un firewall avec IDS/IPS.
+- **Grafana** alerting et suivis d'incidents.
 
 ## 🏗️ Infrastructure Utilisée
 ### 🔹 Environnement de Virtualisation : **Proxmox**
