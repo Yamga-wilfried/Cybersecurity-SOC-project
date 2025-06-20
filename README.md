@@ -24,21 +24,24 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 ### 🔸 Schéma global du SOC
 ![Architecture SOC](./Captures/Architecture_SOC.png)
 
+
 ----------------------------------------------------------------
 ## 🔍 Visualisation & Analyse
 
 ### 🔸 Agents connectés à Wazuh
 ![Agents Wazuh](./Captures/Agents_Wazuh.png)
 
+
 ----------------------------------------------------------------
 ### 🔸 Détection de vulnérabilités dans Wazuh
 ![Détection vulnérabilités](./Captures/Vulerabilies-Detection(WAZUH).png)
 
-
+---------------------------------------------------------------
 ### 🔸 Tableau de bord Kibana intégré à Wazuh
 ![Dashboard Kibana](./Captures/Dashboard_Kibana.png)
 
 
+----------------------------------------------------------------
 ### 🔸 Logs IDS/IPS via Pfsense + Suricata
 ![Pfsense - Suricata](./Captures/Pfsense(suricata).png)
 
@@ -46,14 +49,17 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 ![Interface Shuffle](./Captures/Shuffle(SOAR).png)
 
 
+-----------------------------------------------------------------
 ### 🔸 Exemple de playbooks d’automatisation dans Shuffle
 ![Playbooks Shuffle](./Captures/SOAR-Playbooks(Shuffle).png)
 
 
+----------------------------------------------------------------
 ### 🔸 Suivi des incidents détectés (Backlog Wazuh)
 ![Backlog incidents](./Captures/Backlog_Incidents(Wazuh).png)
 
 
+-----------------------------------------------------------------
 ## 🛠️ Implémentation
 
 ### 🔹 Principales Étapes
