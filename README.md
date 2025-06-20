@@ -24,13 +24,13 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 ### 🔸 Schéma global du SOC
 ![Architecture SOC](./Captures/Architecture_SOC.png)
 
-
+----------------------------------------------------------------
 ## 🔍 Visualisation & Analyse
 
 ### 🔸 Agents connectés à Wazuh
 ![Agents Wazuh](./Captures/Agents_Wazuh.png)
 
-
+----------------------------------------------------------------
 ### 🔸 Détection de vulnérabilités dans Wazuh
 ![Détection vulnérabilités](./Captures/Vulerabilies-Detection(WAZUH).png)
 
