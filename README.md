@@ -22,30 +22,30 @@ Ce projet vise à mettre en place un **SOC (Security Operations Center)** à l'a
 ## 📊 Architecture Technique
 
 ### 🔸 Schéma global du SOC
-![Architecture SOC](./captures/Architecture_SOC.png)
+![Architecture SOC](./Captures/Architecture_SOC.png)
 
 ## 🔍 Visualisation & Analyse
 
 ### 🔸 Agents connectés à Wazuh
-![Agents Wazuh](./captures/Agents_Wazuh.png)
+![Agents Wazuh](./Captures/Agents_Wazuh.png)
 
 ### 🔸 Détection de vulnérabilités dans Wazuh
-![Détection vulnérabilités](./captures/Vulerabilies-Detection(WAZUH).png)
+![Détection vulnérabilités](./Captures/Vulerabilies-Detection(WAZUH).png)
 
 ### 🔸 Tableau de bord Kibana intégré à Wazuh
-![Dashboard Kibana](./captures/Dashboard_Kibana.png)
+![Dashboard Kibana](./Captures/Dashboard_Kibana.png)
 
 ### 🔸 Logs IDS/IPS via Pfsense + Suricata
-![Pfsense - Suricata](./captures/Pfsense(suricata).png)
+![Pfsense - Suricata](./Captures/Pfsense(suricata).png)
 
 ### 🔸 Interface de Shuffle (SOAR)
-![Interface Shuffle](./captures/Shuffle(SOAR).png)
+![Interface Shuffle](./Captures/Shuffle(SOAR).png)
 
 ### 🔸 Exemple de playbooks d’automatisation dans Shuffle
-![Playbooks Shuffle](./captures/SOAR-Playbooks(Shuffle).png)
+![Playbooks Shuffle](./Captures/SOAR-Playbooks(Shuffle).png)
 
 ### 🔸 Suivi des incidents détectés (Backlog Wazuh)
-![Backlog incidents](./captures/Backlog_Incidents(Wazuh).png)
+![Backlog incidents](./Captures/Backlog_Incidents(Wazuh).png)
 
 ## 🛠️ Implémentation
 
